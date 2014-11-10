@@ -1,9 +1,0 @@
-{
-   "name": "bootstrap-script",
-   "description": "Front-end framework from Twitter - script only",
-   "homepage": "https://github.com/Zaku-eu/meteor-bootstrap-script",
-   "author": "Tamino Martinius <dev@zaku.eu> (http://zaku.eu)",
-   "version": "0.1.0",
-   "git": "https://github.com/Zaku-eu/meteor-bootstrap-script.git",
-   "packages": {}
-}
